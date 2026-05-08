@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/target/surefire/surefirebooter-20260508120035340_9.jar /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/target/surefire 2026-05-08T12-00-33_637-jvmRun1 surefire-20260508120035340_7tmp surefire_2-20260508120035340_8tmp"/>
+    <property name="sun.java.command" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/target/surefire/surefirebooter-20260508121014787_9.jar /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/target/surefire 2026-05-08T12-10-13_075-jvmRun1 surefire-20260508121014787_7tmp surefire_2-20260508121014787_8tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/target/test-classes:/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/target/classes:/Users/soren/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/target/surefire/surefirebooter-20260508120035340_9.jar"/>
+    <property name="surefire.real.class.path" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/target/surefire/surefirebooter-20260508121014787_9.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="25.0.2"/>
