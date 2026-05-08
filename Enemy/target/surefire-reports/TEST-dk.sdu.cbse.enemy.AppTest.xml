@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dk.sdu.cbse.enemy.AppTest" time="0.009" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dk.sdu.cbse.enemy.AppTest" time="0.008" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/target/surefire 2026-05-08T16-11-25_485-jvmRun1 surefire-20260508161127757_10tmp surefire_3-20260508161127757_11tmp"/>
+    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/target/surefire 2026-05-08T17-02-06_008-jvmRun1 surefire-20260508170208645_10tmp surefire_3-20260508170208645_11tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/target/test-classes:/Users/soren/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
@@ -20,7 +20,7 @@
     <property name="user.home" value="/Users/soren"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="jdk.module.path" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/target/classes"/>
+    <property name="jdk.module.path" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/target/classes:/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Bullet/target/Bullet-1.0-SNAPSHOT.jar:/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Common/target/Common-1.0-SNAPSHOT.jar"/>
     <property name="java.version.date" value="2026-01-20"/>
     <property name="java.home" value="/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home"/>
     <property name="file.separator" value="/"/>

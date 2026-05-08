@@ -1,5 +1,4 @@
 dk/sdu/cbse/bullet/BulletSPI.class
 module-info.class
 dk/sdu/cbse/bullet/Bullet.class
-dk/sdu/cbse/App.class
 dk/sdu/cbse/bullet/BulletControl.class

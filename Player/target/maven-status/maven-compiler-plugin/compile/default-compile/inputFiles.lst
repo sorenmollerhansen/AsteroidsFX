@@ -1,2 +1,5 @@
 /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Player/src/main/java/dk/module-info.java
-/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Player/src/main/java/dk/sdu/cbse/player/App.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Player/src/main/java/dk/sdu/cbse/player/Player.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Player/src/main/java/dk/sdu/cbse/player/PlayerControl.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Player/src/main/java/dk/sdu/cbse/player/PlayerFactory.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Player/src/main/java/dk/sdu/cbse/player/PlayerProcessor.java

@@ -1,2 +1,5 @@
+dk/sdu/cbse/enemy/EnemyProcessor.class
+dk/sdu/cbse/enemy/EnemyControl.class
 module-info.class
-dk/sdu/cbse/enemy/App.class
+dk/sdu/cbse/enemy/Enemy.class
+dk/sdu/cbse/enemy/EnemyFactory.class

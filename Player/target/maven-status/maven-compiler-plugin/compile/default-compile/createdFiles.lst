@@ -1,2 +1,5 @@
+dk/sdu/cbse/player/PlayerProcessor.class
+dk/sdu/cbse/player/Player.class
 module-info.class
-dk/sdu/cbse/player/App.class
+dk/sdu/cbse/player/PlayerFactory.class
+dk/sdu/cbse/player/PlayerControl.class

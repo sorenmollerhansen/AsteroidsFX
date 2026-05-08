@@ -1,6 +1,9 @@
 package dk.sdu.cbse.common.data;
 
 public class GameEvents {
+    private boolean playerAlive = true;
+    private boolean playerHit;
+
     private Entity entity1;
     private Entity entity2;
 
@@ -25,5 +28,21 @@ public class GameEvents {
         list[1] = entity2;
         
         return list;
+    }
+
+    public boolean getPlayerAlive() {
+        return playerAlive;
+    }
+
+    public void setPlayerAlive(boolean playerAlive) {
+        this.playerAlive = playerAlive;
+    }
+
+    public void setPlayerHit(boolean playerHit){
+        this.playerHit = playerHit;
+    }
+    
+    public boolean getPlayerHit(){
+        return playerHit;
     }
 }
