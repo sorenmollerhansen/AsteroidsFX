@@ -1,0 +1,6 @@
+dk/sdu/cbse/asteroid/Asteroid.class
+dk/sdu/cbse/asteroid/AsteroidSplitter.class
+dk/sdu/cbse/asteroid/AsteroidFactory.class
+module-info.class
+dk/sdu/cbse/asteroid/AsteroidProcessor.class
+dk/sdu/cbse/asteroid/AsteroidControl.class
