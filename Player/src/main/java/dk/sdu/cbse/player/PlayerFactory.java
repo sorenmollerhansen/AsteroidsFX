@@ -11,15 +11,15 @@ public class PlayerFactory implements IEntityFactoryService {
 
     @Override
     public Entity create(GameData gameData) {
-        Entity playerShip = new Player();
+        Entity player = new Player();
 
-        playerShip.setPolygonCoordinates(-5,-5,10,0,-5,5);
+        player.setPolygonCoordinates(-5,-5,10,0,-5,5);
 
-        playerShip.setX(gameData.getDisplayHeight()/2);
-        playerShip.setY(gameData.getDisplayWidth()/2);
+        player.setX(gameData.getDisplayHeight()/2);
+        player.setY(gameData.getDisplayWidth()/2);
 
-        playerShip.setSize(8);
+        player.setSize(8);
 
-        return playerShip;
+        return player;
     }
 }

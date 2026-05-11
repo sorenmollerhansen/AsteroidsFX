@@ -1,6 +1,5 @@
 package dk.sdu.cbse.enemy;
 
-import dk.sdu.cbse.bullet.BulletSPI;
 import dk.sdu.cbse.common.data.Entity;
 import dk.sdu.cbse.common.data.GameData;
 import dk.sdu.cbse.common.data.GameEvents;

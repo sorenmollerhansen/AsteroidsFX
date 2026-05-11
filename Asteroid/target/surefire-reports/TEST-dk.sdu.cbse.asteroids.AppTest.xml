@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/target/surefire 2026-05-08T17-02-06_008-jvmRun1 surefire-20260508170209336_13tmp surefire_4-20260508170209336_14tmp"/>
+    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/target/surefire 2026-05-11T09-43-46_673-jvmRun1 surefire-20260511094349949_13tmp surefire_4-20260511094349949_14tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/target/test-classes:/Users/soren/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>

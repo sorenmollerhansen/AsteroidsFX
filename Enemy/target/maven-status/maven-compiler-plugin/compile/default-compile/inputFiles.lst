@@ -1,2 +1,5 @@
-/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/src/main/java/dk/module-info.java
-/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Enemy/src/main/java/dk/sdu/cbse/enemy/App.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/src/main/java/dk/sdu/cbse/enemy/EnemyControl.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/src/main/java/dk/sdu/cbse/enemy/Enemy.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/src/main/java/dk/sdu/cbse/enemy/EnemyProcessor.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/src/main/java/dk/sdu/cbse/enemy/EnemyFactory.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Enemy/src/main/java/dk/module-info.java

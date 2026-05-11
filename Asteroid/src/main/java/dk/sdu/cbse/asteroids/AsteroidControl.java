@@ -1,6 +1,6 @@
-package dk.sdu.cbse.asteroid;
+package dk.sdu.cbse.asteroids;
 
-import dk.sdu.cbse.asteroid.Asteroid;
+import dk.sdu.cbse.asteroids.Asteroid;
 import dk.sdu.cbse.common.data.Entity;
 import dk.sdu.cbse.common.data.GameData;
 import dk.sdu.cbse.common.data.GameEvents;

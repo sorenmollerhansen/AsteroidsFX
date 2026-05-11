@@ -1,14 +1,11 @@
 package dk.sdu.cbse.player;
 
-import dk.sdu.cbse.bullet.BulletSPI;
 import dk.sdu.cbse.common.data.Entity;
 import dk.sdu.cbse.common.data.GameData;
 import dk.sdu.cbse.common.data.GameEvents;
 import dk.sdu.cbse.common.data.GameKeys;
 import dk.sdu.cbse.common.data.World;
 import dk.sdu.cbse.common.services.IPostEntityProcessingService;
-
-import java.util.Collection;
 
 
 public class PlayerControl implements IPostEntityProcessingService {

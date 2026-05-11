@@ -1,4 +1,4 @@
-package dk.sdu.cbse.asteroid;
+package dk.sdu.cbse.asteroids;
 
 import dk.sdu.cbse.common.services.IEntityFactoryService;
 import dk.sdu.cbse.common.data.GameData;

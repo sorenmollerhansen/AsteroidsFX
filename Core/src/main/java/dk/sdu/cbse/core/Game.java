@@ -7,10 +7,13 @@ import dk.sdu.cbse.common.data.World;
 import dk.sdu.cbse.common.services.IEntityProcessingService;
 import dk.sdu.cbse.common.services.IGamePluginService;
 import dk.sdu.cbse.common.services.IPostEntityProcessingService;
+import dk.sdu.cbse.common.data.GameEvents;
 
 import java.util.List;
 import java.util.Map;
+import java.util.ServiceLoader;
 import java.util.concurrent.ConcurrentHashMap;
+import static java.util.stream.Collectors.toList;
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -26,6 +29,19 @@ class Game {
     private final World world = new World();
     private final Map<Entity, Polygon> polygons = new ConcurrentHashMap<>();
     private final Pane gameWindow = new Pane();
+    private List<IPostEntityProcessingService> postEntityProcessingServices;
+    private GameEvents gameEvents = new GameEvents();
+
+    public Game() { // ServiceLoader finds all implementations at start
+        this.postEntityProcessingServices = ServiceLoader.load(IPostEntityProcessingService.class)
+            .stream().map(ServiceLoader.Provider::get).collect(toList());
+    }
+
+    public void gameLoop() { // During each frame, invoke all post-processors
+        for (IPostEntityProcessingService service : postEntityProcessingServices) {
+            service.process(gameData, world, gameEvents);
+        }
+    }
 
     public void start(Stage window) throws Exception {
         Text text = new Text(10, 20, "Destroyed asteroids: 0");

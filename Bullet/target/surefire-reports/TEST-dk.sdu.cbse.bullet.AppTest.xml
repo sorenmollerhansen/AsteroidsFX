@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Bullet/target/surefire 2026-05-08T17-02-06_008-jvmRun1 surefire-20260508170207530_4tmp surefire_1-20260508170207530_5tmp"/>
+    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter /Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Bullet/target/surefire 2026-05-11T09-43-46_673-jvmRun1 surefire-20260511094348237_4tmp surefire_1-20260511094348237_5tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Bullet/target/test-classes:/Users/soren/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
@@ -60,5 +60,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="testApp" classname="dk.sdu.cbse.bullet.AppTest" time="0.0"/>
+  <testcase name="testApp" classname="dk.sdu.cbse.bullet.AppTest" time="0.001"/>
 </testsuite>

@@ -1,2 +1,6 @@
-/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Asteroids/src/main/java/dk/module-info.java
-/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/AsteroidsFX/Asteroids/src/main/java/dk/sdu/cbse/asteroids/AsteroidsEntity.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/src/main/java/dk/module-info.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/src/main/java/dk/sdu/cbse/asteroids/Asteroid.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/src/main/java/dk/sdu/cbse/asteroids/AsteroidControl.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/src/main/java/dk/sdu/cbse/asteroids/AsteroidSplitter.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/src/main/java/dk/sdu/cbse/asteroids/AsteroidProcessor.java
+/Users/soren/Desktop/SDU/Komponentbaserede sys/AsteroidsFX/Asteroid/src/main/java/dk/sdu/cbse/asteroids/AsteroidFactory.java

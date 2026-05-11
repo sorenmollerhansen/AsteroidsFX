@@ -4,7 +4,7 @@ import dk.sdu.cbse.common.services.IPostEntityProcessingService;
 
 module Asteroid {
     requires Common;
-    provides IEntityProcessingService with dk.sdu.cbse.asteroid.AsteroidProcessor;
-    provides IEntityFactoryService with dk.sdu.cbse.asteroid.AsteroidFactory;
-    provides IPostEntityProcessingService with dk.sdu.cbse.asteroid.AsteroidControl;
+    provides IEntityProcessingService with dk.sdu.cbse.asteroids.AsteroidProcessor;
+    provides IEntityFactoryService with dk.sdu.cbse.asteroids.AsteroidFactory;
+    provides IPostEntityProcessingService with dk.sdu.cbse.asteroids.AsteroidControl;
 }
